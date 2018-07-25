@@ -1,0 +1,9 @@
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\bin\Release\netstandard2.0\Timekeeper.Models.deps.json
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\bin\Release\netstandard2.0\Timekeeper.Models.dll
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\bin\Release\netstandard2.0\Timekeeper.Models.pdb
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.csprojAssemblyReference.cache
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.csproj.CoreCompileInputs.cache
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.AssemblyInfoInputs.cache
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.AssemblyInfo.cs
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.dll
+C:\Users\matand\Downloads\Timekeeper\Timekeeper\Timekeeper.Models\obj\Release\netstandard2.0\Timekeeper.Models.pdb
