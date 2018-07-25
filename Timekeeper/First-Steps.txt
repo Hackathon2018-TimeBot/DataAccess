@@ -1,0 +1,24 @@
+﻿Hinweis: Die Anwendung ist konfiguriert für eine existierende Cosmos DB. Für lokale tests bitte folgendermaßen vorgehen:
+
+1. In Azure Portal eine Resource "Azure Cosmos DB account" anlegen.
+2. URI + Key aus dem Reiter "Keys" kopieren. 
+2. Rechtsklick auf das Projekt "Timekeeper" -> "Manage User Secrets"
+3. URI + Key ersetzen durch die Keys im Cosmos DB account.
+4. In appsettings.json den "InitializeCosmosDB" auf "true" setzen.
+
+5. Anwendung ausführen.
+
+6. Nach dem ersten Starten und nach erfolgreicher Anlage der CosmosDB in der appsettings.json den "InitializeCosmosDB" wieder auf "false" setzen.
+
+Hinweis: Der Eintrag "Id" ist die Id der anzulegenden Datenbank (also der Name). 
+Beim Start wird geprüft ob selbiger vorhanden ist und ob Tabellen vorhanden sind. Sie werden angelegt falls sie nicht vorhanden sind.
+
+Um die Anwendung zu testen kann sie lokal ausgeführt werden.
+Die Konsolenanwendung erwartet die Basis-URI des Timekeeper Rest Service. Beispiel: "http://localhost:10554/"
+WICHTIG: MIT "/" am ende, aber ohne "/api..."!
+
+Die Konsolenanwendung testet nach Eingabe der Basisadresse die komplette Funktionalität von Timekeeper-Rest-Service.
+
+Hinweis: Der Values controller, der im Browser erscheint ist ohne jegliche Funktion und interaktion mit der Datenbank!
+
+
